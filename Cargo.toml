@@ -2,5 +2,9 @@
 name = "libmistry"
 version = "0.1.0"
 edition = "2021"
+authors = ["Pavan Kumar Mistry <pavan@example.com>"]
+description = "A simple library management system written in Rust."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/pavankumar/libmistry"
 
 [dependencies]
